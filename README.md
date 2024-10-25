@@ -26,8 +26,10 @@ People in these photos have given their consent for these photos to be used in
 the following ways:
 
 – In reports of the event (e.g. in R Journal News, R-devel GitHub, sponsor blog)
+
 – On official social media channels (e.g. R Foundation/R Contributor accounts, 
 sponsor accounts)
+
 – On participants' social media (e.g. blog posts, Mastodon sharing their 
 experience)
 
