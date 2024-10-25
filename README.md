@@ -33,3 +33,12 @@ experience)
 
 For other use, consent must be requested from the individuals pictured. An 
 index is provided naming individuals for small group photos.
+
+## Corrections
+
+To make corrections, please make a PR.
+
+If you wish to withdraw consent or request a change privately, please contact 
+Heather Turner via 
+[heather.turner@r-project.org](mailto:heather.turner@r-project.org?subject=[r-devel/photos]%20Requesting%20a%20change) 
+with subject prefix "[r-devel/photos]".
